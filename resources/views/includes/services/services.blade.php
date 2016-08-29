@@ -70,7 +70,7 @@
             </div>
         </li>
         <li class="col-sm-4">
-            <img class="img-responsive" src="{{UTL::to('resources/assets/img/mockup/img4.jpg')}}" alt="">
+            <img class="img-responsive" src="{{URL::to('resources/assets/img/mockup/img4.jpg')}}" alt="">
             <div class="portfolio-box-v1-in">
                 <h3>Allan Project</h3>
                 <p>Web Development, HTML5</p>
