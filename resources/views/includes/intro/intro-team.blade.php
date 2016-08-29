@@ -9,7 +9,7 @@
         <ul class="list-unstyled row">
             <li class="col-sm-3 col-xs-6 md-margin-bottom-30">
                 <div class="team-img">
-                    <img class="img-responsive" src="assets/img/team/img1-md.jpg" alt="">
+                    <img class="img-responsive" src="{{URL::to('resources/assets/img/team/img1-md.jpg')}}" alt="">
                     <ul>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
@@ -22,7 +22,7 @@
             </li>
             <li class="col-sm-3 col-xs-6 md-margin-bottom-30">
                 <div class="team-img">
-                    <img class="img-responsive" src="assets/img/team/img2-md.jpg" alt="">
+                    <img class="img-responsive" src="{{URL::to('resources/assets/img/team/img2-md.jpg')}}" alt="">
                     <ul>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
@@ -35,7 +35,7 @@
             </li>
             <li class="col-sm-3 col-xs-6">
                 <div class="team-img">
-                    <img class="img-responsive" src="assets/img/team/img3-md.jpg" alt="">
+                    <img class="img-responsive" src="{{URL::to('resources/assets/img/team/img3-md.jpg')}}" alt="">
                     <ul>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>
@@ -48,7 +48,7 @@
             </li>
             <li class="col-sm-3 col-xs-6">
                 <div class="team-img">
-                    <img class="img-responsive" src="assets/img/team/img5-md.jpg" alt="">
+                    <img class="img-responsive" src="{{URL::to('resources/assets/img/team/img5-md.jpg')}}" alt="">
                     <ul>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-twitter"></i></a></li>
                         <li><a href="#"><i class="icon-custom icon-sm rounded-x fa fa-facebook"></i></a></li>

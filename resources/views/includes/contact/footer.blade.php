@@ -1,5 +1,5 @@
 <div class="copyright-section">
-    <p>2015 &copy; All Rights Reserved. Unify Theme by <a target="_blank" href="https://twitter.com/htmlstream">Htmlstream</a></p>
+    <p>2016 &copy; All Rights Reserved. Unify Theme by <a target="_blank" href="https://twitter.com/htmlstream">Htmlstream</a></p>
     <ul class="social-icons">
         <li><a href="#" data-original-title="Facebook" class="social_facebook rounded-x"></a></li>
         <li><a href="#" data-original-title="Twitter" class="social_twitter rounded-x"></a></li>

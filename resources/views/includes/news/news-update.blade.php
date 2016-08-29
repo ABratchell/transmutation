@@ -8,9 +8,10 @@
     <div class="row news-v1">
         <div class="col-md-4 md-margin-bottom-40">
             <div class="news-v1-in">
-                <img class="img-responsive" src="assets/img/contents/img1.jpg" alt="">
+                <img class="img-responsive" src="{{URL::to('resources/assets/img/contents/img1.jpg')}}" alt="">
                 <h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
+                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+                    praesentium voluptatum deleniti atque corrupti quos dolores.</p>
                 <ul class="list-inline news-v1-info">
                     <li><span>By</span> <a href="#">Kathy Reyes</a></li>
                     <li>|</li>
@@ -21,9 +22,10 @@
         </div>
         <div class="col-md-4 md-margin-bottom-40">
             <div class="news-v1-in">
-                <img class="img-responsive" src="assets/img/contents/img4.jpg" alt="">
+                <img class="img-responsive" src="{{URL::to('resources/assets/img/contents/img4.jpg')}}" alt="">
                 <h3><a href="#">We build your website to realise your vision and best product</a></h3>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
+                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+                    voluptatum deleniti atque corrupti quos dolores.</p>
                 <ul class="list-inline news-v1-info">
                     <li><span>By</span> <a href="#">John Clarck</a></li>
                     <li>|</li>
@@ -34,9 +36,10 @@
         </div>
         <div class="col-md-4">
             <div class="news-v1-in">
-                <img class="img-responsive" src="assets/img/contents/img3.jpg" alt="">
+                <img class="img-responsive" src="{{URL::to('resources/assets/img/contents/img3.jpg')}}" alt="">
                 <h3><a href="#">Focused on helping our clients to build a successful business</a></h3>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores.</p>
+                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+                    voluptatum deleniti atque corrupti quos dolores.</p>
                 <ul class="list-inline news-v1-info">
                     <li><span>By</span> <a href="#">Tina Kruiger</a></li>
                     <li>|</li>

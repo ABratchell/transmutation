@@ -11,27 +11,30 @@
                 <i class="icon-custom icon-md rounded-x icon-bg-u icon-line icon-trophy"></i>
                 <div class="content-boxes-in-v3">
                     <h2 class="heading-sm">Innovation Leader</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's</p>
                 </div>
             </div>
             <div class="clearfix margin-bottom-30">
                 <i class="icon-custom icon-md rounded-x icon-bg-u icon-line icon-directions"></i>
                 <div class="content-boxes-in-v3">
                     <h2 class="heading-sm">Best Solutions &amp; Approaches</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's</p>
                 </div>
             </div>
             <div class="clearfix margin-bottom-30">
                 <i class="icon-custom icon-md rounded-x icon-bg-u icon-line icon-diamond"></i>
                 <div class="content-boxes-in-v3">
                     <h2 class="heading-sm">Quality Service &amp; Support</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                        Lorem Ipsum has been the industry's</p>
                 </div>
             </div>
         </div>
 
         <div class="col-md-6">
-            <img class="img-responsive" src="assets/img/mockup/mockup1.png" alt="">
+            <img class="img-responsive" src="{{URL::to('resources/assets/img/mockup/mockup1.png')}}" alt="">
         </div>
     </div>
 </div>

@@ -16,7 +16,7 @@
         </div>
 
         <div class="col-md-6">
-            <form action="assets/php/sky-forms-pro/demo-contacts-process.php" method="post" id="sky-form3" class="sky-form contact-style">
+            <form action="{{URL::to('resources/assets/php/sky-forms-pro/demo-contacts-process.php')}}" method="post" id="sky-form3" class="sky-form contact-style">
                 <fieldset>
                     <label>Name</label>
                     <div class="row">

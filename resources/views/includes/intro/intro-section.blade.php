@@ -5,7 +5,7 @@
                 <!-- SLIDE 1 -->
                 <li data-transition="curtain-1" data-slotamount="5" data-masterspeed="700" data-title="Slide 1">
                     <!-- MAIN IMAGE -->
-                    <img src="{{URL::to('assets/img/sliders/revolution/bg1.jpg')}}" alt="slidebg1" data-bgfit="cover"
+                    <img src="{{URL::to('resources/assets/img/sliders/revolution/bg1.jpg')}}" alt="slidebg1" data-bgfit="cover"
                          data-bgposition="center center" data-bgrepeat="no-repeat">
 
                     <!-- LAYERS -->
@@ -57,7 +57,7 @@
                 <!-- SLIDE 2 -->
                 <li data-transition="slideup" data-slotamount="5" data-masterspeed="1000" data-title="Slide 2">
                     <!-- MAIN IMAGE -->
-                    <img src="{{URL::to('assets/img/sliders/revolution/bg2.jpg')}}" alt="slidebg1"
+                    <img src="{{URL::to('resources/assets/img/sliders/revolution/bg2.jpg')}}" alt="slidebg1"
                          data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 
                     <!-- LAYERS -->
@@ -109,7 +109,7 @@
                 <!-- SLIDE 3 -->
                 <li data-transition="slideup" data-slotamount="5" data-masterspeed="700"  data-title="Slide 3">
                     <!-- MAIN IMAGE -->
-                    <img src="{{URL::to('assets/img/sliders/revolution/bg3.jpg')}}"  alt="slidebg1"
+                    <img src="{{URL::to('resources/assets/img/sliders/revolution/bg3.jpg')}}"  alt="slidebg1"
                          data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat">
 
                     <!-- LAYERS -->

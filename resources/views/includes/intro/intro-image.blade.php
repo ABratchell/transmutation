@@ -6,7 +6,7 @@
                 Focused on helping our clients to build a <strong>successful</strong> business on web and mobile.</p>
         </div>
         <div class="img-center">
-            <img class="img-responsive" src="assets/img/mockup/mockup.png" alt="">
+            <img class="img-responsive" src="{{URL::to('resources/assets/img/mockup/mockup.png')}}" alt="">
         </div>
     </div>
 </div>

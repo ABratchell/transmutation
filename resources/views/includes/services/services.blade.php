@@ -54,7 +54,7 @@
 
     <ul class="list-unstyled row portfolio-box-v1">
         <li class="col-sm-4">
-            <img class="img-responsive" src="assets/img/mockup/img1.jpg" alt="">
+            <img class="img-responsive" src="{{URL::to('resources/assets/img/mockup/img1.jpg')}}" alt="">
             <div class="portfolio-box-v1-in">
                 <h3>Collective Package</h3>
                 <p>Web Design, Mock-up</p>
@@ -62,7 +62,7 @@
             </div>
         </li>
         <li class="col-sm-4">
-            <img class="img-responsive" src="assets/img/mockup/img2.jpg" alt="">
+            <img class="img-responsive" src="{{URL::to('resources/assets/img/mockup/img2.jpg')}}" alt="">
             <div class="portfolio-box-v1-in">
                 <h3>Ahola Company</h3>
                 <p>Brand Design, UI</p>
@@ -70,7 +70,7 @@
             </div>
         </li>
         <li class="col-sm-4">
-            <img class="img-responsive" src="assets/img/mockup/img4.jpg" alt="">
+            <img class="img-responsive" src="{{UTL::to('resources/assets/img/mockup/img4.jpg')}}" alt="">
             <div class="portfolio-box-v1-in">
                 <h3>Allan Project</h3>
                 <p>Web Development, HTML5</p>
@@ -83,7 +83,8 @@
         <div class="container">
             <div class="call-action-v1-box">
                 <div class="call-action-v1-in">
-                    <p>Unify creative technology company providing key digital services and focused on helping our clients to build a successful business on web and mobile.</p>
+                    <p>Unify creative technology company providing key digital services and
+                        focused on helping our clients to build a successful business on web and mobile.</p>
                 </div>
                 <div class="call-action-v1-in inner-btn page-scroll">
                     <a href="#portfolio" class="btn-u btn-brd btn-brd-hover btn-u-dark btn-u-block">View Our Portfolio</a>

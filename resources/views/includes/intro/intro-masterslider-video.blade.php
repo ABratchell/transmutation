@@ -1,4 +1,7 @@
 
+<!-- google font Lato -->
+<link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
+
 <div class="ms-videogallery-template">
 
     <br>
@@ -6,10 +9,10 @@
     <!-- masterslider -->
     <div class="master-slider ms-skin-default" id="masterslider">
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/1.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/1.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{urL::to('assets/masterslider/img/thumbs/1.jpg')}}" alt="video thumb"/>
+                <img src="{{urL::to('resources/assets/masterslider/img/thumbs/1.jpg')}}" alt="video thumb"/>
                 <h3>Red Bull Signature Series 2013</h3>
             </div>
             <h3 class="ms-layer video-title" style="right:41px; bottom:40px; background-color:#313D50;"
@@ -22,10 +25,10 @@
         </div>
 
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/2.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/2.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/2.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/2.jpg')}}" alt="video thumb"/>
                 <h3>A Good Year for Extreme Sports</h3>
             </div>
             <h3 class="ms-layer video-title" style="right:53px; bottom:99px; background-color:#899798;"
@@ -38,10 +41,10 @@
         </div>
 
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/3.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/3.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/3.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/3.jpg')}}" alt="video thumb"/>
                 <h3>Where things come from</h3>
             </div>
             <h3 class="ms-layer video-title" style="left:51px; bottom:101px; background-color:#333;"
@@ -52,10 +55,10 @@
         </div>
 
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/4.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/4.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/4.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/4.jpg')}}" alt="video thumb"/>
                 <h3>RENAN OZTURK // REEL 2013</h3>
             </div>
             <h3 class="ms-layer video-title" style="left:70px; bottom:140px; background: #6D6F6E; "
@@ -68,10 +71,10 @@
 
         </div>
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/5.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/5.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/5.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/5.jpg')}}" alt="video thumb"/>
                 <h3>Buenos Aires Ciudad </h3>
             </div>
             <h3 class="ms-layer video-title" style="right: 48px; bottom:49px; background-color: #23354E;"
@@ -82,10 +85,10 @@
         </div>
 
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/6.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/6.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/6.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/6.jpg')}}" alt="video thumb"/>
                 <h3>DRAWNIMAL</h3>
             </div>
             <h3 class="ms-layer video-title" style="left: 81px; bottom:86px; color:#000; background-color:#FFF;"
@@ -98,10 +101,10 @@
         </div>
 
         <div class="ms-slide">
-            <img src="{{URL::to('assets/masterslider/masterslider/style/blank.gif')}}"
-                 data-src="{{URL::to('assets/masterslider/img/7.jpg')}}" alt="lorem ipsum dolor sit"/>
+            <img src="{{URL::to('resources/assets/masterslider/masterslider/style/blank.gif')}}"
+                 data-src="{{URL::to('resources/assets/masterslider/img/7.jpg')}}" alt="lorem ipsum dolor sit"/>
             <div class="ms-thumb">
-                <img src="{{URL::to('assets/masterslider/img/thumbs/7.jpg')}}" alt="video thumb"/>
+                <img src="{{URL::to('resources/assets/masterslider/img/thumbs/7.jpg')}}" alt="video thumb"/>
                 <h3>Lamborghini "Aventador"</h3>
             </div>
             <h3 class="ms-layer video-title" style="left: 41px; top:10px; background-color: #813123;"
@@ -119,11 +122,11 @@
 <!-- end of template -->
 
 <!-- jQuery -->
-<script src="{{URL::to('assets/masterslider/masterslider/jquery.min.js')}}"></script>
-<script src="{{URL::to('assets/masterslider/masterslider/jquery.easing.min.js')}}"></script>
+<script src="{{URL::to('resources/assets/masterslider/masterslider/jquery.min.js')}}"></script>
+<script src="{{URL::to('resources/assets/masterslider/masterslider/jquery.easing.min.js')}}"></script>
 
 <!-- Master Slider -->
-<script src="{{URL::to('assets/masterslider/masterslider/masterslider.min.js')}}"></script>
+<script src="{{URL::to('resources/assets/masterslider/masterslider/masterslider.min.js')}}"></script>
 
 
 <script type="text/javascript">

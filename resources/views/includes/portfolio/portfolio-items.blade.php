@@ -16,10 +16,10 @@
 
         <div id="grid-container" class="cbp-l-grid-gallery">
             <div class="cbp-item print motion">
-                <a href="assets/ajax/project1.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/img/contents/img3.jpg')}}x" class="cbp-caption cbp-singlePageInline"
                    data-title="World Clock Widget<br>by Paul Flavius Nechita">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/1.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/1.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -32,10 +32,10 @@
                 </a>
             </div>
             <div class="cbp-item web-design">
-                <a href="assets/ajax/project2.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project2.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Bolt UI<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/2.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/2.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -48,10 +48,10 @@
                 </a>
             </div>
             <div class="cbp-item print motion">
-                <a href="assets/ajax/project3.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project3.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="WhereTO App<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/3.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/3.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -64,10 +64,10 @@
                 </a>
             </div>
             <div class="cbp-item web-design print">
-                <a href="assets/ajax/project4.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project4.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="iDevices<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/11.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/11.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -80,10 +80,10 @@
                 </a>
             </div>
             <div class="cbp-item motion">
-                <a href="assets/ajax/project5.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project5.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Seemple* Music for iPad<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/5.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/5.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -96,10 +96,10 @@
                 </a>
             </div>
             <div class="cbp-item print motion">
-                <a href="assets/ajax/project6.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project6.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Remind~Me Widget<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/6.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/6.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -112,10 +112,10 @@
                 </a>
             </div>
             <div class="cbp-item web-design print">
-                <a href="assets/ajax/project7.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project7.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Workout Buddy<br>by Tiberiu Neamu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/7.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/7.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -128,10 +128,10 @@
                 </a>
             </div>
             <div class="cbp-item print">
-                <a href="assets/ajax/project8.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project8.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Digital Menu<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/8.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/8.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -144,10 +144,10 @@
                 </a>
             </div>
             <div class="cbp-item motion">
-                <a href="assets/ajax/project9.html" class="cbp-caption cbp-singlePageInline"
+                <a href="{{URL::to('resources/assets/ajax/project9.html')}}" class="cbp-caption cbp-singlePageInline"
                    data-title="Holiday Selector<br>by Cosmin Capitanu">
                     <div class="cbp-caption-defaultWrap">
-                        <img src="assets/img/portfolio/4.jpg" alt="">
+                        <img src="{{URL::to('resources/assets/img/portfolio/4.jpg')}}" alt="">
                     </div>
                     <div class="cbp-caption-activeWrap">
                         <div class="cbp-l-caption-alignLeft">
@@ -162,7 +162,7 @@
         </div>
 
         <div class="cbp-l-loadMore-button">
-            <a href="assets/ajax/loadMore.html" class="cbp-l-loadMore-button-link">LOAD MORE</a>
+            <a href="{{URL::to('resources/assets/ajax/loadMore.html')}}" class="cbp-l-loadMore-button-link">LOAD MORE</a>
         </div>
     </div>
 </div>
